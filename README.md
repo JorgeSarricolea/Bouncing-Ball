@@ -40,8 +40,8 @@ javac Bouncing-Ball.java && java Bouncing-Ball
 
 - **Bouncing Ball Animation:** The program features a ball that moves within a frame and bounces off the edges.
 - **Shape Transformation:** Upon collision with the frame edges, the ball transforms into an oval shape, providing an interesting visual effect.
-- **Multithreading: **The application uses threads to handle the oval transformation independently, ensuring smooth animation without affecting the main UI thread.
-- **Dynamic Collision Handling: **The ball changes its direction upon colliding with the frame edges, creating a continuous bouncing effect.
+- **Multithreading:** The application uses threads to handle the oval transformation independently, ensuring smooth animation without affecting the main UI thread.
+- **Dynamic Collision Handling:** The ball changes its direction upon colliding with the frame edges, creating a continuous bouncing effect.
 
 ## Contribution
 
