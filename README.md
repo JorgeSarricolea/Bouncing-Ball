@@ -28,7 +28,7 @@ To get started with "Bouncing Ball Animation", follow these simple steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/JorgeSarricolea/Bouncing-Ball.git
+git clone https://github.com/JorgeSarricolea/Bouncing-Ball
 ```
 
 2. Navigate to the project directory:
