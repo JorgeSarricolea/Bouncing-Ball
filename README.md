@@ -2,11 +2,15 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Features](#features)
-4. [Contribution](#contribution)
-5. [Copyright](#copyright)
+- [Bouncing-Ball](#bouncing-ball)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Features](#features)
+  - [Contribution](#contribution)
+  - [Copyright](#copyright)
 
 ## Introduction
 
